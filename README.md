@@ -96,10 +96,10 @@ https://github.com/AyushSharma-arch
 ## Screenshots
 
 ### Generate Text Hash
-![Generate Text Hash](Screenshots/generate_text_hash.png)
+![Generate Text Hash](Screenshots/genrate_text_hash.png)
 
 ### Generate File Hash
-![Generate File Hash](Screenshots/generate_file_hast_sha1.png)
+![Generate File Hash](Screenshots/genrate_file_hast_sha1.png)
 
 ### Verify Text Hash
 ![Verify Text Hash](Screenshots/verify_hash_txt.png)
