@@ -93,6 +93,26 @@ Ayush Sharma
 GitHub:
 https://github.com/AyushSharma-arch
 
+## Screenshots
+
+### Generate Text Hash
+![Generate Text Hash](Screenshots/generate_text_hash.png)
+
+### Generate File Hash
+![Generate File Hash](Screenshots/generate_file_hast_sha1.png)
+
+### Verify Text Hash
+![Verify Text Hash](Screenshots/verify_hash_txt.png)
+
+### Password Strength Analysis
+![Password Strength](Screenshots/password_strenth_analysis.png)
+
+### Interactive Mode
+![Interactive Mode](Screenshots/interactive_mode.png)
+
+### Help Menu
+![Help Menu](Screenshots/help_menu.png)
+
 ---
 
 ⭐ If you like this project, consider giving it a Star.
